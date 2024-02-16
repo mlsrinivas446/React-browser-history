@@ -1,0 +1,46 @@
+.history-card-container {
+  min-height: 90vh;
+  width: 110vw;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  margin-left: 30px;
+}
+
+.history {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.history-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.time {
+  font-size: 25px;
+  color: #64748b;
+  padding-left: 20px;
+}
+.title {
+  font-size: 25px;
+  color: #64748b;
+  padding-left: 20px;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+  margin-left: 20px;
+}
+.domainUrl {
+  font-size: 25px;
+  color: #64748b;
+  padding-left: 20px;
+}
+
+.delete-icon {
+  height: 40px;
+  width: 40px;
+}

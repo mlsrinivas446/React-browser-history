@@ -1,0 +1,59 @@
+.browser-history-container {
+  width: 120vw;
+  min-height: 100vh;
+  background-color: #ececec;
+}
+.history-header-section {
+  height: 12vh;
+  width: 120vw;
+  background-color: #3367d6;
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  padding: 20px;
+}
+.history-logo {
+  height: 60px;
+  width: 130px;
+  align-self: flex-start;
+}
+.search-bar-container {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  margin-left: 300px;
+}
+.search-logo-box {
+  background-color: #2850a7;
+  height: 60px;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 4px;
+  border-width: 0px;
+}
+.search-logo {
+  height: 40px;
+  width: 50px;
+}
+.search-bar {
+  height: 60px;
+  width: 30vw;
+  font-size: 30px;
+  color: #ffffff;
+  background-color: #2850a7;
+  border-width: 0px;
+}
+
+.history-bottom-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 120vw;
+  background-color: #ececec;
+}
